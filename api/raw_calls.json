@@ -1,0 +1,27 @@
+{
+    "auth": "none",
+    "calls": {
+        "AAV": {
+            "data_type": "image",
+            "method": "get",
+            "name": "get ui-avatar",
+            "no_types": true,
+            "publish_as": "data",
+            "rank": 0,
+            "url": "https://ui-avatars.com/api/?name=[firstname]+[lastname]",
+            "url_params": {
+                "AAe": {
+                    "key": "firstname",
+                    "private": true,
+                    "value": "Tristian"
+                },
+                "AAm": {
+                    "key": "lastname",
+                    "private": true,
+                    "value": "Forcum"
+                }
+            }
+        }
+    },
+    "human": "ui-avatar"
+}

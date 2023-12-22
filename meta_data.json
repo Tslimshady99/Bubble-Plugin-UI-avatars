@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "data (things)",
+        "2": "media"
+    },
+    "description": "Create Avatars with user initials using https://ui-avatars.com/",
+    "image": "//s3.amazonaws.com/appforest_uf/f1578271420291x105585627216347120/logo.png",
+    "license": "open_source",
+    "link": "https://ui-avatars.com/",
+    "name": "UI-avatars",
+    "plugin_instructions": "Must have First and last name Separate for it to work ",
+    "sa_node_version": 18
+}
